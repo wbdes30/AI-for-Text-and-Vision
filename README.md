@@ -16,7 +16,7 @@
     - Task 2: Find the top-N common stem 2-grams and non-stem 2-grams, respectively, and decide which is more helpful to understand the common questions. Answer returns two lists (one for stem 2-grams, and the other one for non-stem 2-grams), and each is sorted in descending order of frequency
     - Task 3: Calculate the cosine similarity between one question and all its corresponding candidate sentences in the atext column, and check whether the sentence of the highest similarity has a label 1. Ultimately, report the proportion of questions can be accurately answered using the tf.idf feature.
 
-  - Part 2: Study the similarity between the questions and theanswers 
+  - Part 2: Study the similarity between the questions and the answers 
     - Task 1: Using Simple Siamese Neural Network - Contrastive Loss
     - Task 2: Using Simple Transformer Neural Network
 
